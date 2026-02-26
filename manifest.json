@@ -1,7 +1,7 @@
 {
     "name": "nostlichat",
     "description": "A Gmail-based chat for Ubuntu Touch.",
-    "architecture": "arm64",
+    "architecture": "@CLICK_ARCH@",
     "title": "Nostlichat",
     "hooks": {
         "nostlichat": {
