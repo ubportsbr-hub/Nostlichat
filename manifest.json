@@ -1,0 +1,15 @@
+{
+    "name": "nostlichat",
+    "description": "A Gmail-based chat for Ubuntu Touch.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Nostlichat",
+    "hooks": {
+        "nostlichat": {
+            "apparmor": "nostlichat.apparmor",
+            "desktop":  "nostlichat.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "samuel luizari wahbe <ubportsbr@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

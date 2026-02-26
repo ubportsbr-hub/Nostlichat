@@ -1,0 +1,9 @@
+clickable_minimum_required: 8.0.0
+builder: rust
+kill: nostlichat
+install_root_data:
+- manifest.json
+- nostlichat.apparmor
+- nostlichat.desktop
+- assets
+- qml/Main.qml
