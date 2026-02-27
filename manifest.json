@@ -9,7 +9,7 @@
             "desktop":  "nostlichat.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "samuel luizari wahbe <ubportsbr@gmail.com>",
     "framework" : "ubuntu-sdk-20.04"
 }
