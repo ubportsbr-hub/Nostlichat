@@ -2,7 +2,7 @@
     "policy_groups": [
         "networking",
         "connectivity",
-        "picture_files"
+        "content_exchange"
     ],
     "policy_version": 20.04
 }
